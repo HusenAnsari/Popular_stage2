@@ -14,7 +14,7 @@
     <string name="added_to_favorites">Added to Favorites</string>
     <string name="action_sort_by_favorite">Favorites</string>
     <string name="action_share">Share</string>
-    <string name="tmdb_api_key">API KEY</string>
+    <string name="tmdb_api_key">67d7b19e6283aefb8cd9ea32914cea7f</string>
     <string name="imageViewDescription">Movie Poster</string>
     <string name="overview">Overview</string>
 </resources>

@@ -1,6 +1,7 @@
 # Popular_stage2
 Udacity - Android Developer Nanodegree - 2: Popular_stage2
-##screenshot
+
+## Screenshot
 <img width="33%" src="https://github.com/HusenAnsari/Popular_stage2/blob/master/app/screenshot/Screenshot_2016-08-18-13-33-31.png" />
 <img width="33%" src="https://github.com/HusenAnsari/Popular_stage2/blob/master/app/screenshot/Screenshot_2016-08-18-13-33-44.png" />
 <img width="33%" src="https://github.com/HusenAnsari/Popular_stage2/blob/master/app/screenshot/Screenshot_2016-08-18-13-33-53.png" />
